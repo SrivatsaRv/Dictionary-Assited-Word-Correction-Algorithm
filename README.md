@@ -1,5 +1,5 @@
 
-# Converting EXIF Metadata to Google Maps Plots
+# Dictionary-Assited-Word-Correction-Algorithm
 
 
 ## Contents
